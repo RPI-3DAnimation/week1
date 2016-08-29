@@ -24,4 +24,24 @@ Norman Mclaren
 Janie Geiser
   Ghost Alegbra
   (https://www.youtube.com/watch?v=CK9aP9GKU4Q)
+  
+  
+Bouncing Balls: Part 1 
+  Hide Details  .
+
+
+Due: 9/1
+
+Step 1:  Create reference video of two bouncing balls of different weights.  Remember that video is shot at 29.9 frames per second.  The animations that we will be creating will be 24 frames per second.  You can import your video into After Effects and export out the video as 24 frames per second.
+
+Step 2:  Create a github account.
+
+Step 3.  Click this link:
+
+https://classroom.github.com/assignment-invitations/d8b36921c79d2ef77f8188b4d963af8c
+
+Authorize and Accept.  Then open github desktop, clone the repository on desktop.  Place you video in the folder, commit and publish.
+
+Step 4: Begin sketching thumbnails.  Upload jpgs to gitHub.
+
  
